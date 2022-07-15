@@ -9,7 +9,7 @@ using System.Threading;
 
 namespace ExcelParcer
 {
-    class DataAccess
+    class DataAccesstest
     {
         //Создание файла базы данных
         public static String SQLiteInitialyze(String dbFileName)
